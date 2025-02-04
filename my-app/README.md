@@ -19,11 +19,11 @@ A Next.js application that displays user profiles and their associated posts usi
 - TypeScript
 
 ## Setup Instructions
-1. Clone the repository
+1. Clone the repository `cd my-app`
 2. Install dependencies: `npm install`
 3. Run the development server: `npm run dev`
 4. Open http://localhost:3000
-
+5. live url https://userspostsdashboard.vercel.app/
 ## State Management
 Using React Query for:
 - Efficient data fetching
